@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/bashshu009
+
 #code recorded by tech cochi
 #https://youtube.com/c/techcochi
 #https://github.com/rixon-cochi
